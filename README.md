@@ -4,7 +4,7 @@
 Step-1 : Download .ipynb file <br>
 Step-2 : Download .csv file <br>
 Step-3 : Open .ipynb file using local machine(jupyter notebook) or google colab. <br>
-Step-4 : In "df=pd.read_csv cell", copy path of .csv file downloaded and paste it to that cell as shown here : df=pd.read_csv("path_to_.csv_file_downloaded") <br>
+Step-4 : In "df=pd.read_csv cell", copy path of .csv file downloaded and paste it to that cell as shown here : <br> df=pd.read_csv("path_to_.csv_file_downloaded") <br>
 Step-5 : Now you can run code. <br>
 
 ## Overview 
@@ -12,7 +12,7 @@ This assignment focuses on performing an exploratory data analysis (EDA) of a da
 
 ## Dataset Selection
 
-**Dataset Name**: [Brain Stroke Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset?resource=download)
+**Dataset Link**: [Brain Stroke Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset?resource=download)
 
 ### Description: 
 The brain stroke prediction dataset is designed to help analyze and predict the likelihood of stroke occurrences based on various health and demographic factors. This dataset can be used to build predictive models and perform exploratory data analysis (EDA) to understand the relationships between different variables and stroke risk.
