@@ -1,10 +1,11 @@
 # Assignment 1 - DAC-501 Machine Learning Course 
 
 ## How to run assignment/project :
--Step-1 : Download .ipynb file
--Step-2 : Download .csv file
--Step-3 : Open .ipynb file using local machine(jupyter notebook) or google colab.
--Step-4 : In "df=pd.read_csv cell", copy path of .csv file downloaded and paste it to that cell as shown here : df=pd.read_csv("path_to_.csv_file_downloaded")
+Step-1 : Download .ipynb file <br>
+Step-2 : Download .csv file <br>
+Step-3 : Open .ipynb file using local machine(jupyter notebook) or google colab. <br>
+Step-4 : In "df=pd.read_csv cell", copy path of .csv file downloaded and paste it to that cell as shown here : df=pd.read_csv("path_to_.csv_file_downloaded") <br>
+Step-5 : Now you can run code. <br>
 
 ## Overview 
 This assignment focuses on performing an exploratory data analysis (EDA) of a dataset selected from the Kaggle library. The aim is to understand the dataset's structure, identify key patterns, and draw preliminary insights that will inform further analysis or modeling.
