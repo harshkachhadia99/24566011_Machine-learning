@@ -1,5 +1,11 @@
 # Assignment 1 - DAC-501 Machine Learning Course 
 
+## How to run assignment/project :
+Step-1 : Download .ipynb file
+Step-2 : Download .csv file
+Step-3 : Open .ipynb file using local machine(jupyter notebook) or google colab.
+Step-4 : In "df=pd.read_csv cell", copy path of .csv file downloaded and paste it to that cell as shown here : df=pd.read_csv("path_to_.csv_file_downloaded")
+
 ## Overview 
 This assignment focuses on performing an exploratory data analysis (EDA) of a dataset selected from the Kaggle library. The aim is to understand the dataset's structure, identify key patterns, and draw preliminary insights that will inform further analysis or modeling.
 
@@ -56,7 +62,7 @@ The primary objectives of this assignment are:
 4. **Data Visualization**: Various plots (e.g., histograms, box plots, scatter plots) were created to visualize distributions and relationships among variables.
 5. **Correlation Analysis**: Correlation coefficients were computed to identify relationships between numerical features.
 6. **Statistical Tests**: Performed Chi-square, t-tests, and z-tests.
-7. **Deriving Conclusions**
+7. **Deriving Conclusions based on above steps.**
 
 ## Tools and Libraries Used: 
 - Python
