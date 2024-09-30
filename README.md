@@ -4,7 +4,10 @@
 Step-1 : Download .ipynb file <br>
 Step-2 : Download .csv file <br>
 Step-3 : Open .ipynb file using local machine(jupyter notebook) or google colab. <br>
-Step-4 : In "df=pd.read_csv()" cell, copy path of .csv file downloaded and paste it to that cell as shown here : <br> &nbsp;&nbsp;&nbsp;&nbsp; df=pd.read_csv("path_to_.csv_file_downloaded") <br>
+Step-4 : In "df=pd.read_csv()" cell, copy path of .csv file downloaded and paste it to that cell as shown here : <br> 
+<div align="center">
+df=pd.read_csv("path_to_.csv_file_downloaded")
+</div>  <br>
 Step-5 : Now you can run code. <br>
 
 ## Overview 
